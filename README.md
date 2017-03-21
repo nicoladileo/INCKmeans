@@ -26,19 +26,19 @@ This script require:
 
 ## Demo ##
 <div>
-    <img src="https://github.com/nicoladileo/INCKmeans/blob/master/img/lena.jpg" align="center" height="350" width="500">
+    <img src="https://github.com/nicoladileo/INCKmeans/blob/master/img/lena.png" align="center" height="350" width="500">
     <p>Original image</p>
 </div>
 <div>
-    <img src="https://github.com/nicoladileo/INCKmeans/blob/master/output/classick16lena.jpg" align="center" height="350" width="500">
+    <img src="https://github.com/nicoladileo/INCKmeans/blob/master/output/classick16lena.png" align="center" height="350" width="500">
     <p>Final image after running KMeans with k = 16</p>
 </div>
 <div>
-    <img src="https://github.com/nicoladileo/INCKmeans/blob/master/output/fuzzyk16lena.jpg" align="center" height="350" width="500">
+    <img src="https://github.com/nicoladileo/INCKmeans/blob/master/output/fuzzyk16lena.png" align="center" height="350" width="500">
     <p>Final image after running Fuzzy CMeans with k = 16</p>
 </div>
 <div>
-    <img src="https://github.com/nicoladileo/INCKmeans/blob/master/output/incremental_r4k16lena.jpg" align="center" height="350" width="500">
+    <img src="https://github.com/nicoladileo/INCKmeans/blob/master/output/incremental_r4k16lena.png" align="center" height="350" width="500">
     <p>Final image after running INCKMeans with k = 16 and with 4 regions</p>
 </div>
 
